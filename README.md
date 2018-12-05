@@ -9,3 +9,5 @@ This repository contains MATLAB algorithms created for the Mec 105 class at Colo
 [False-position](https://github.com/quintero7/Applied-Numerical-Methods-with-MATLAB-Algorithms/tree/master/false-position%20algorithm)
 
 [nxm function](https://github.com/quintero7/Applied-Numerical-Methods-with-MATLAB-Algorithms/tree/master/nxm%20function%20algorithm)
+
+[Heun's method](https://github.com/quintero7/Applied-Numerical-Methods-with-MATLAB-Algorithms/tree/master/Heun-s%20algorithm)
