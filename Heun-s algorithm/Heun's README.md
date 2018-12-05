@@ -17,6 +17,7 @@ y0 - The initial value of y or initial condition to start.
 h = Step Size.
 
 es - Estimated error.
+
 maxit - Maximum number of iterations.
 ### Outputs 
 t - t-variable.
