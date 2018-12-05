@@ -8,7 +8,9 @@ the [U] matrix is the final result of the gauss elimination. The [L] matrix star
 -A- Coefficient matrix 
 ### Outputs
 L-Lower triangular matrix 
-U-Upper triangular matrix 
+
+U-Upper triangular matrix
+
 P- pivot matrix 
 ### Limitations
 This algorithm only works for square matrices, which meand the number of rows has to be the same as the number of columns. Moreover, this algorithm does not work with 1x1 matrix.
