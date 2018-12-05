@@ -5,3 +5,7 @@ This repository contains MATLAB algorithms created for the Mec 105 class at Colo
 [Simpson](https://github.com/quintero7/Applied-Numerical-Methods-with-MATLAB-Algorithms/tree/master/Simpson%20algorithm)
 
 [Lu Factor](https://github.com/quintero7/Applied-Numerical-Methods-with-MATLAB-Algorithms/tree/master/Lu%20Factor%20Algorithm)
+
+[False-position](https://github.com/quintero7/Applied-Numerical-Methods-with-MATLAB-Algorithms/tree/master/false-position%20algorithm)
+
+
